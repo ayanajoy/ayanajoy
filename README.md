@@ -14,7 +14,7 @@ I'm a **BTech Computer Science** student passionate about coding, learning new t
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-Skills
+**Skills**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
