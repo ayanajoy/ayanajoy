@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayana Joy, and I'm a BTech Computer Science student.</h2>
+
 
 ###
 # Hi 👋! My name is Ayana Joy  
