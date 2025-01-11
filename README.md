@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! My name is Ayana Joy, and I'm a BTech Computer Science student.</h2>
 
 ###
+# Hi 👋! My name is Ayana Joy  
+I'm a **BTech Computer Science** student passionate about coding, learning new technologies, and exploring the endless possibilities of tech.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayanajoy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
